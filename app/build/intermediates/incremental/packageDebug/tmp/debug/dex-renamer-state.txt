@@ -1,4 +1,0 @@
-#Sun Sep 10 23:13:03 ART 2023
-base.0=C\:\\Users\\anabe\\OneDrive\\Documentos\\GitHub\\MovilesProyecto002\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
